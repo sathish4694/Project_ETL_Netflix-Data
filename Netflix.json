@@ -1,0 +1,72 @@
+[
+    {
+        "name": "ID",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "TYPE",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "TITLE",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "DIRECTOR",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "CAST",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "COUNTRY",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "DATE_ARRIVAL",
+        "type": "TIMESTAMP",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "RELEASE_YEAR",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "RATING",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "DURATION",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "LISTED_IN",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "DESCRIPTION",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "DURATION_MOVIE",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "TITLE_DIRECTOR",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }
+]
