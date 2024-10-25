@@ -45,16 +45,6 @@ The following diagram illustrates the ETL process:
    - Store the transformed data into Google Cloud Storage as a CSV file.
    - Use the Google Cloud Storage bucket to store the CSV file.
 
-Project Structure
-=================
-
-The main components of the project are:
-
-- **`data/`:** Directory for raw and processed data.
-- **`scripts/`:** Python scripts used for ETL.
-- **`config/`:** Configuration files, such as Kaggle API key and GCP credentials.
-- **`README.rst`:** Project documentation.
-
 Setup and Prerequisites
 =======================
 
